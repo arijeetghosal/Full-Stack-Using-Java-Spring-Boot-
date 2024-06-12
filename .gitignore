@@ -1,0 +1,85 @@
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/AppData/
+/Contacts/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
+NTUSER.DAT*
+.bash_history
+.gitconfig
+.idlerc/
+.ipython/
+.jupyter/
+.matplotlib/
+.vscode/
+
+
+
+# Ignore configuration files and directories
+.vscode/
+nbproject/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Python-specific files
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Ignore Java-specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore IDE specific files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Ignore node.js specific files
+node_modules/
+
+# Ignore miscellaneous files
+*.bak
+*.orig
+*.rej
+*.old
+*.backup
+*.bak
+*.tmp
+
+# Ignore the .gitignore file itself
+!.gitignore
