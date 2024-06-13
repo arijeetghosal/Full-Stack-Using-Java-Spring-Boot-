@@ -1,14 +1,16 @@
 ﻿![](Aspose.Words.e10f0890-7057-40e6-876c-f4f68a5938c2.001.png)
 
+ **Publication Link -- https://www.amazon.de/-/en/Arijeet-Ghosal/dp/6203846848**
+
 Project By:     ARIJEET GHOSAL
 
-**A Project on Full stack development Using** ~~ARIJEETGHOSAL~~ **Spring Boot and AES**
+**A Project on Full stack development Using**  **Spring Boot and AES**
 
 Abstract![ref1]
 
 Networking, which is one of the most significant aspects of information technology revolution, is developing increasingly day after day. This is because it offers a huge amount of knowledge, resources and human experiences. Our project works on client-server architecture. This not only monitors the network traffic but also provides security and control towards unauthorized access. The connection to the server is totally wireless and can be created through wireless network (e.g. hotspot). It provides confidentiality of data and we can also block the unauthorized user from the network. We can connect multiple devices to the server. The security is provided in the network through encryption and decryption of data. The file can be shared within thARIJEETGHOSALe network in an encrypted manner so that data safety is ensured.
 
-rijeet Ghosal  Network Traffic Monitoring and Contr![ref2]
+Arijeet Ghosal  Network Traffic Monitoring and Contr![ref2]
 ![ref1]
 
 Originality
